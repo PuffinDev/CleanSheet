@@ -1,3 +1,8 @@
+# Sheet Cryptocurrency - clean
+
+Sheet is a recently released cryptocurrency with much potential, but sadly the wallet had been infected with a trojan designed to steal RVL and RVM.
+Soon the community found out that it was just the binaries that were infected, not the source code. So here is the clean code of the sheet project, able to be used entirely safely.
+
 ### Coin Specification
 
 * Name: Sheet
